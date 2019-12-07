@@ -63,7 +63,8 @@ webkit-input-placeholder {
     }
 .hover {
         transform: scale(1.1);
-    }
+}
+
 a {
     text-decoration: none;
     padding: 12px;
